@@ -1,4 +1,6 @@
-# step-slack[![wercker status](https://app.wercker.com/status/c7a3b4d90d8746931cbc8a1aa825b8c6/m/master "wercker status")](https://app.wercker.com/project/bykey/c7a3b4d90d8746931cbc8a1aa825b8c6)
+# step-slack
+
+[![wercker status](https://app.wercker.com/status/c7a3b4d90d8746931cbc8a1aa825b8c6/m/master "wercker status")](https://app.wercker.com/project/bykey/c7a3b4d90d8746931cbc8a1aa825b8c6)
 
 A slack notifier written in `bash` and `curl`. Make sure you create a Slack
 webhook first (see the Slack integrations page to set one up).
@@ -39,6 +41,9 @@ This url is then exposed as an environment variable (in this case
 The MIT License (MIT)
 
 # Changelog
+
+## 1.2.5
+- change slack message
 
 ## 1.2.3
 - add commit title & commit url on slack message
