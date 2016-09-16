@@ -1,9 +1,10 @@
-# step-slack
+# step-slack[![wercker status](https://app.wercker.com/status/c7a3b4d90d8746931cbc8a1aa825b8c6/m/master "wercker status")](https://app.wercker.com/project/bykey/c7a3b4d90d8746931cbc8a1aa825b8c6)
 
 A slack notifier written in `bash` and `curl`. Make sure you create a Slack
 webhook first (see the Slack integrations page to set one up).
 
-[![wercker status](https://app.wercker.com/status/c7a3b4d90d8746931cbc8a1aa825b8c6/m/master "wercker status")](https://app.wercker.com/project/bykey/c7a3b4d90d8746931cbc8a1aa825b8c6)
+![screenshot](https://raw.githubusercontent.com/futabooo/step-slack/master/screenshot.png)
+
 
 # Options
 
