@@ -39,6 +39,9 @@ The MIT License (MIT)
 
 # Changelog
 
+## 1.2.3
+- add commit title & commit url on slack message
+
 ## 1.2.0
 
 - added `branch` option
