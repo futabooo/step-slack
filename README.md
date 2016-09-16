@@ -3,7 +3,7 @@
 A slack notifier written in `bash` and `curl`. Make sure you create a Slack
 webhook first (see the Slack integrations page to set one up).
 
-[![wercker status](https://app.wercker.com/status/94f767fe85199d1f7f2dd064f36802bb/s "wercker status")](https://app.wercker.com/project/bykey/94f767fe85199d1f7f2dd064f36802bb)
+[![wercker status](https://app.wercker.com/status/c7a3b4d90d8746931cbc8a1aa825b8c6/m/master "wercker status")](https://app.wercker.com/project/bykey/c7a3b4d90d8746931cbc8a1aa825b8c6)
 
 # Options
 
